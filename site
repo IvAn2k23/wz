@@ -1,0 +1,18 @@
+<div class="boite">
+  <h1> Présentation :
+</div>
+
+<div class="boite">
+  <h1> BOOMBOCLAT 2 </h1>
+  <h2> Boomboclat en mieux. </h2>
+  <form>
+    <label for="e-mail"> e-mail </label>
+    <input id="e-mail">
+    <label for="nom"> nom </label>
+    <input id="nom">
+    <button type="button">Débit 2000€</button>
+    <button type="button" id="neu">Annuler</button>
+  </form>
+</div>
+<div class="boite"> <span id="cc"> Clic: </span>
+</div>
